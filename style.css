@@ -1,0 +1,122 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  color: white;
+}
+
+.top-img{
+  background-image: url(../img/ac0c25df5008d16b46c6aaf7c6d941dc_t.jpeg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+.top-text{
+  padding: 300px;
+  font-family: 'Big Shoulders Inline Text', cursive;
+  text-align: center;
+
+}
+.top-text h2{
+  font-size: 90px;
+}
+.top-text p{
+  font-size: 20px;
+  padding: 20px;
+  text-align: left;
+  font-family: 'Big Shoulders Inline Text', cursive;
+  font-family: 'Libre Baskerville', serif;
+
+}
+.job{
+  background-image: url(../img/krivan-mountain-in-high-tatras-slovakia-1080x720.jpg);
+  background-size: cover;
+  text-align: center;
+  padding: 300px;
+  background-attachment: fixed;
+}
+.job h2{
+  font-size: 80px;
+  font-family: 'Big Shoulders Inline Text', cursive;
+  padding: 20px;
+}
+
+.job ul{
+  font-size: 30px;
+  padding: 30px;
+  list-style: none;
+}
+.job ul li{
+  padding: 10px;
+  font-family: 'Big Shoulders Inline Text', cursive;
+font-family: 'Libre Baskerville', serif;
+}
+.job ul li a:hover{
+  color: white;
+}
+.job ul li a{
+  color: white;
+}
+.instractor{
+  background-color: black;
+  padding: 150px;
+}
+.instractor h2{
+  font-size: 80px;
+  font-family: 'Big Shoulders Inline Text', cursive;
+  text-align: start;
+  padding-bottom: 30px;
+}
+.instractor h3{
+  font-family: 'Big Shoulders Inline Text', cursive;
+font-family: 'Libre Baskerville', serif;
+}
+.instractor p{
+  font-family: 'Big Shoulders Inline Text', cursive;
+font-family: 'Libre Baskerville', serif;
+padding-bottom: 40px;
+}
+.service{
+  background-image: url(../img/DSC08393-1080x720.jpg);
+  padding: 350px;
+  background-size: cover;
+  text-align: center;
+}
+.service h2{
+  padding: 30px;
+  font-family: 'Big Shoulders Inline Text', cursive;
+  font-size: 80px;
+
+}
+.service-my{
+  border: solid white;
+}
+.service h3{
+  font-family: 'Big Shoulders Inline Text', cursive;
+font-family: 'Libre Baskerville', serif;
+padding-bottom: 30px;
+}
+.service p{
+  font-family: 'Big Shoulders Inline Text', cursive;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 20px;
+}
+
+form{
+  background-color: burlywood;
+  text-align: start;
+}
+footer{
+  background-color: darkcyan;
+}
+footer ul li a{
+  color: white;
+}
+footer ul li a:hover{
+  color: white;
+}
+footer ul li{
+  list-style: none;
+}
+footer p{
+  text-align: center;
+  padding-top: 30px;
+}
